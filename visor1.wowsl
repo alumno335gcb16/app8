@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>visor1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fly</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/book/</ImageTemplate>
+            <ImageTemplateName>Book</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/pc/Desktop/aplicacion8/1.html</PublishFileName>
+            <PublishIndex>1.html</PublishIndex>
+            <PublishPath>C:/Users/pc/Desktop/aplicacion8</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>book</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion8/20141125_205550.jpg</url>
+                <title>20141125_205550</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion8/20141125_211100.jpg</url>
+                <title>20141125_211100</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion8/20141125_211157.jpg</url>
+                <title>20141125_211157</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion8/20141125_211332.jpg</url>
+                <title>20141125_211332</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion8/20141125_211918.jpg</url>
+                <title>20141125_211918</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion8/20141125_212656.jpg</url>
+                <title>20141125_212656</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
